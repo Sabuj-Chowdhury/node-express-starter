@@ -4,8 +4,8 @@ export const router = Router();
 
 const moduleRoutes = [
   {
-    path: "/example",
-    route: example,
+    path: "/",
+    route: router,
   },
 ];
 
